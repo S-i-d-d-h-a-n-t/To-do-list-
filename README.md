@@ -82,5 +82,3 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the MIT License. Feel free to use and modify the code.
 
 ---
-
-This README file provides an overview of the To-Do List application. Feel free to reach out with any questions or suggestions for improvement!
